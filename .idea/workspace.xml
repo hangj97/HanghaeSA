@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02499b28-e21b-4675-bc36-acdac5d0cc13" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <updated>1669255305217</updated>
       <workItem from="1669255306403" duration="15533000" />
       <workItem from="1669284304723" duration="3125000" />
-      <workItem from="1669341944022" duration="31275000" />
+      <workItem from="1669341944022" duration="31657000" />
     </task>
     <servers />
   </component>
